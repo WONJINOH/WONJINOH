@@ -1,12 +1,12 @@
 
-## 안녕하세요, 오원진입니다
+## Hi, I'm Wonjin Oh
 
-간호사(RN) 출신 환자안전 QI 전문가 & AI 솔루션 아키텍트
+Registered Nurse (RN) turned Patient Safety QI Expert & AI Solutions Architect
 
-- 현직 요양병원 QPS(환자안전/질향상) 담당자
-- 의료 현장의 문제를 기술로 해결합니다
+- Quality & Patient Safety (QPS) Manager at a long-term care hospital
+- Solving real healthcare problems with technology
 
-### 기술 스택
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -16,14 +16,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 주요 프로젝트
+### Featured Projects
 
-| 프로젝트 | 설명 | 기술 |
-|---------|------|------|
-| **[Patient Safety QI System](https://github.com/WONJINOH/patient-safety-ai-architect)** | 환자안전사고 보고 + 욕창관리 통합 시스템 (55K줄, 160 API) | React, FastAPI, PostgreSQL |
-| **[Healthcare Data Analysis](https://github.com/WONJINOH/Data-Analysis)** | 의료 데이터 분석 포트폴리오 | Python, Pandas, Scikit-learn |
-| **[NLP Projects](https://github.com/WONJINOH/Natural-Language-Processing)** | 자연어 처리 프로젝트 | PyTorch, Transformers |
+| Project | Description | Tech |
+|---------|------------|------|
+| **[Patient Safety QI System](https://github.com/WONJINOH/patient-safety-ai-architect)** | Incident reporting + pressure injury management (55K lines, 160 APIs) | React, FastAPI, PostgreSQL |
+| **[Healthcare Data Analysis](https://github.com/WONJINOH/Data-Analysis)** | Healthcare data analysis portfolio | Python, Pandas, Scikit-learn |
+| **[NLP Projects](https://github.com/WONJINOH/Natural-Language-Processing)** | Natural language processing projects | PyTorch, Transformers |
 
-### 연락처
+### Contact
 
 [![Email](https://img.shields.io/badge/Email-nara.qps38@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nara.qps38@gmail.com)
+```
