@@ -19,14 +19,15 @@ I'm a **Quality & Patient Safety (QPS) Manager** at a long-term care hospital in
 
 While CDSS focuses on individual patients, I architect AI systems that protect *entire hospitals* — managing systemic risks across workflows, staff, and operations.
 
+**My unique value**: I *live* the clinical reality (RN + QPS leadership) and translate it into scalable technology that frontline staff actually adopt.
+
 I design **multi-agent platforms** that:
+- Map your hospital's unique structure to identify hidden systemic vulnerabilities  
+- Predict and prevent institution-wide risks (med errors, falls, infections, staffing gaps)
+- Integrate with EHR to create safety nets every team member trusts
+- **Extend care beyond walls**: Smart home + remote nursing for continuous post-discharge monitoring
 
-- Map your hospital's unique structure to identify hidden systemic vulnerabilities
-- Predict and prevent institution-wide risks (med errors, falls, infections, staffing gaps)  
-- Integrate with EHR to create safety nets that every team member trusts
-- Scale safety across departments, reducing readmissions and compliance failures
-
-*Bridging clinical reality (RN + QPS) with enterprise AI, I make hospitals antifragile.*
+*Bridging frontline reality with enterprise AI, I make hospitals — and patients' homes — antifragile.*
 
 ---
 
@@ -89,6 +90,7 @@ Full-stack incident reporting & pressure injury management system for long-term 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONJINOH&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
+
 
 
 
