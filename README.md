@@ -4,7 +4,7 @@
 
 **Registered Nurse (RN) &rarr; Patient Safety QI Manager &rarr; Healthcare AI Architect**
 
-Building systems that make hospitals safer — one incident report, one wound assessment at a time.
+Building systems that make hospitals and patients safer
 
 [![Email](https://img.shields.io/badge/nara.qps38@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nara.qps38@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/wonjion91)
@@ -82,3 +82,4 @@ Full-stack incident reporting & pressure injury management system for long-term 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONJINOH&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
+
