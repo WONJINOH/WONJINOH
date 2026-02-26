@@ -17,15 +17,16 @@ Building systems that make hospitals and patients safer
 
 I'm a **Quality & Patient Safety (QPS) Manager** at a long-term care hospital in South Korea.
 
-While CDSS focuses on individual patients, I architect AI systems that protect entire hospitals — managing systemic risks across workflows, staff, and operations.
+While CDSS focuses on individual patients, I architect AI systems that protect *entire hospitals* — managing systemic risks across workflows, staff, and operations.
 
-I design multi-agent platforms that:
-• Map your hospital's unique structure to identify hidden systemic vulnerabilities
-• Predict and prevent institution-wide risks (med errors, falls, infections, staffing gaps)
-• Integrate with EHR to create safety nets that every team member trusts
-• Scale safety across departments, reducing readmissions and compliance failures
+I design **multi-agent platforms** that:
 
-Bridging clinical reality (RN + QPS) with enterprise AI, I make hospitals antifragile.
+- Map your hospital's unique structure to identify hidden systemic vulnerabilities
+- Predict and prevent institution-wide risks (med errors, falls, infections, staffing gaps)  
+- Integrate with EHR to create safety nets that every team member trusts
+- Scale safety across departments, reducing readmissions and compliance failures
+
+*Bridging clinical reality (RN + QPS) with enterprise AI, I make hospitals antifragile.*
 
 ---
 
@@ -88,5 +89,6 @@ Full-stack incident reporting & pressure injury management system for long-term 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONJINOH&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
+
 
 
