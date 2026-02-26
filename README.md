@@ -4,7 +4,7 @@
 
 **Registered Nurse (RN) &rarr; Patient Safety QI Manager &rarr; Healthcare AI Architect**
 
-Building systems that make hospitals and patients safer
+Architecting AI safety for hospital systems
 
 [![Email](https://img.shields.io/badge/nara.qps38@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nara.qps38@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/wonjion91)
@@ -21,13 +21,14 @@ While CDSS focuses on individual patients, I architect AI systems that protect *
 
 **My unique value**: I *live* the clinical reality (RN + QPS leadership) and translate it into scalable technology that frontline staff actually adopt.
 
-I design **multi-agent platforms** that:
+**Current focus** — Hospital systems that:
 - Map your hospital's unique structure to identify hidden systemic vulnerabilities  
 - Predict and prevent institution-wide risks (med errors, falls, infections, staffing gaps)
 - Integrate with EHR to create safety nets every team member trusts
-- **Extend care beyond walls**: Smart home + remote nursing for continuous post-discharge monitoring
 
-*Bridging frontline reality with enterprise AI, I make hospitals — and patients' homes — antifragile.*
+**Future vision** — Extending safety to smart homes & remote nursing for seamless post-discharge care
+
+*Bridging frontline reality with enterprise AI, I make hospitals antifragile.*
 
 ---
 
@@ -90,6 +91,7 @@ Full-stack incident reporting & pressure injury management system for long-term 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONJINOH&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
+
 
 
 
