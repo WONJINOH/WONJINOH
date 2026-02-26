@@ -25,10 +25,11 @@ While CDSS focuses on individual patients, I architect AI systems that protect *
 - Map your hospital's unique structure to identify hidden systemic vulnerabilities  
 - Predict and prevent institution-wide risks (med errors, falls, infections, staffing gaps)
 - Integrate with EHR to create safety nets every team member trusts
+- 
+*Bridging frontline reality with enterprise AI, I make hospitals antifragile.*
 
 **Future vision** — Extending safety to smart homes & remote nursing for seamless post-discharge care
 
-*Bridging frontline reality with enterprise AI, I make hospitals antifragile.*
 
 ---
 
@@ -91,6 +92,7 @@ Full-stack incident reporting & pressure injury management system for long-term 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONJINOH&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
+
 
 
 
