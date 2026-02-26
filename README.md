@@ -8,6 +8,8 @@ Architecting AI safety for hospital systems
 
 [![Email](https://img.shields.io/badge/nara.qps38@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nara.qps38@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/wonjion91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjin-oh-b89a25335)
+
 
 </div>
 
@@ -92,6 +94,7 @@ Full-stack incident reporting & pressure injury management system for long-term 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONJINOH&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
+
 
 
 
